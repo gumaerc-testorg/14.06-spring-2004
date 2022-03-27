@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 35314d5e-0b29-bd91-4a7b-2be4e823d00e
 resourcetype: Document
 title: 14_06proset2_sol.pdf
 uid: 1bb94818-cfd4-f2dd-8872-59d3f8dc883e

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 35314d5e-0b29-bd91-4a7b-2be4e823d00e
 resourcetype: Document
 title: 1406pset3conprob.pdf
 uid: 72cb5230-dc47-38ee-5153-51c8a53cffd4

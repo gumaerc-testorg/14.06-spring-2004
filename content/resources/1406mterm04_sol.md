@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 5e829cfb-4c56-66c3-a80e-70963d3f94cc
 resourcetype: Document
 title: 1406mterm04_sol.pdf
 uid: 96cf36fd-e6c5-c24e-ec95-a4c42229c468

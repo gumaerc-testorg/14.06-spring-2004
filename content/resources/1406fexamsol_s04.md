@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 5e829cfb-4c56-66c3-a80e-70963d3f94cc
 resourcetype: Document
 title: 1406fexamsol_s04.pdf
 uid: 9f1d7902-941b-d9bf-201f-9b601e883e5e
