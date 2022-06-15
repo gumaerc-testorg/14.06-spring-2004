@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: Lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: 3c1d25aa-1cf5-51e4-3ddc-8a5c3451523c
 ---
