@@ -5,6 +5,7 @@ file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/72cb5230dc473
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 1406pset3conprob.pdf
 uid: 72cb5230-dc47-38ee-5153-51c8a53cffd4
 ---
 Example MATLAB code for the problem set.
-

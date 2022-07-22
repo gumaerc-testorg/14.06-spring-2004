@@ -5,6 +5,7 @@ file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/88d3202cd98d9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14_06lec_nts_ch1.pdf
 uid: 88d3202c-d98d-9fdf-352e-58f5200bd0d8
 ---
 Chapter 1 of the course lecture notes.
-

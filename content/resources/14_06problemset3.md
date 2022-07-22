@@ -5,6 +5,7 @@ file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/e8e80132ad289
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14_06problemset3.pdf
 uid: e8e80132-ad28-956c-111c-ba9b2a9536e3
 ---
 Problem set.
-
