@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the instructions and deadlines for the paper assignment.
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/5e8d6e9fb8fa2b4ea262487777c358a4_14_06_paper_req.pdf
+file_size: 38193
 file_type: application/pdf
 learning_resource_types:
 - Assignments
