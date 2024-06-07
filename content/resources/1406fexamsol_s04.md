@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to the final examination problems.
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/9f1d7902941bd9bf201f9b601e883e5e_1406fexamsol_s04.pdf
+file_size: 115023
 file_type: application/pdf
 learning_resource_types:
 - Exams
