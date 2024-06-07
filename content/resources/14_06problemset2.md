@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/4d297b631d6cf49757942279af25c1dc_14_06problemset2.pdf
+file_size: 30220
 file_type: application/pdf
 learning_resource_types:
 - Assignments

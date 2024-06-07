@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the course introduction, syllabus, schedule, and
   description of the course readings.
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/9d30869498c14bd308b1935f894883c1_syllabus1406_s04.pdf
+file_size: 115990
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
