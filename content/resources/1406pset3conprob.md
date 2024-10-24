@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example MATLAB code for the problem set.
-file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/72cb5230dc4738ee515351c8a53cffd4_1406pset3conprob.pdf
+file: /ol-ocw-studio-app/courses/14-06-intermediate-macroeconomic-theory-spring-2004/72cb5230dc4738ee515351c8a53cffd4_1406pset3conprob.pdf
 file_size: 27040
 file_type: application/pdf
 learning_resource_types:
