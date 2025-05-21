@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: List of books recommended for reading
-file: /ol-ocw-studio-app/courses/14-06-intermediate-macroeconomic-theory-spring-2004/4b22ed475c77e7932d04aa9d607b7f8c_readings.pdf
+file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/4b22ed475c77e7932d04aa9d607b7f8c_readings.pdf
 file_size: 111512
 file_type: application/pdf
 learning_resource_types:
