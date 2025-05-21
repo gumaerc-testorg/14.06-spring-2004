@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-06-intermediate-macroeconomic-theory-spring-2004/98507c03e469c3fc109fd9fbb096c31b_14_06volagrth.pdf
+file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/98507c03e469c3fc109fd9fbb096c31b_14_06volagrth.pdf
 file_size: 531468
 file_type: application/pdf
 learning_resource_types:
