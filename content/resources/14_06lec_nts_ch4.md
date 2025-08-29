@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chapter 4 of the course lecture notes.
-file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/d03cc97524ee08086499d94d4613ce02_14_06lec_nts_ch4.pdf
+file: /ol-ocw-studio-app/courses/14-06-intermediate-macroeconomic-theory-spring-2004/d03cc97524ee08086499d94d4613ce02_14_06lec_nts_ch4.pdf
 file_size: 136690
 file_type: application/pdf
 learning_resource_types:
