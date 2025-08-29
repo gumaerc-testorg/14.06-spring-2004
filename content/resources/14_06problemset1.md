@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/65cfce6b9eda58aa861edde68ff6a2e0_14_06problemset1.pdf
+file: /ol-ocw-studio-app/courses/14-06-intermediate-macroeconomic-theory-spring-2004/65cfce6b9eda58aa861edde68ff6a2e0_14_06problemset1.pdf
 file_size: 40731
 file_type: application/pdf
 learning_resource_types:
